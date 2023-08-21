@@ -1,4 +1,4 @@
-package first;
+package BinarySearch3;
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = {-91, -24, -12, -6, -4, -1, 0, 4, 8, 10, 19, 24, 46, 62, 81, 96, 100, 102};
