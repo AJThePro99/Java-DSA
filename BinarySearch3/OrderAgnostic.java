@@ -1,8 +1,7 @@
-package first;
 public class OrderAgnostic {
     public static void main(String[] args) {
         int[] arr = {102, 100, 96, 81, 62, 46, 24, 19, 10, 8, 4, 0, -1, -4, -6, -12, -24, -91};
-        int answer = agnosticSearch(arr, 81);
+        int answer = agnosticSearch(arr, 19);
         
         System.out.println("index: " + answer);
     }
