@@ -1,4 +1,3 @@
-package BinarySearch3;
 public class ReverseArray {
     public static void main(String[] args) {
         int[] array = {-91, -24, -12, -6, -4, -1, 0, 4, 8, 10, 19, 24, 46, 62, 81, 96, 100, 102};
