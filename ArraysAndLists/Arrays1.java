@@ -9,5 +9,12 @@ public class Arrays1 {
         }
 
         System.out.println(Arrays.toString(numberArray));
+
+        // Enchnced for loop:
+
+        for (int num: numberArray) {
+            System.out.print(num + " "); // Here, num represents the element in the array
+
+        }
     }    
 }
