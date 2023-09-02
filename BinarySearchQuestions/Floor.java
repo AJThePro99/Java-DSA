@@ -22,7 +22,7 @@ public class Floor {
 
         int index = floor(array, target);
 
-        System.out.println("The floor is in position" + (index + 1));
+        System.out.println("The floor is in position " + (index + 1));
         System.out.println("And the floor of the number is " + array[index]);
         
     }

@@ -23,7 +23,7 @@ public class Ceiling {
 
         int index = ceiling(array, target);
 
-        System.out.println("The ceiling is in position" + (index + 1));
+        System.out.println("The ceiling is in position " + (index + 1));
         System.out.println("And the ceiling is " + array[index]);
         
     }
