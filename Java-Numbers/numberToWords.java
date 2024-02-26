@@ -5,16 +5,15 @@ public class numberToWords {
 
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number: ");
-        int number = input.nextInt();
-
-        
+        int number = input.nextInt();        
 
     }
 
     public static String numberToString() {
         
 
-        return "";
+
+        return "Test";
     }
 
 }
